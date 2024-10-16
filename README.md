@@ -4,6 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/dkssudsksdbsldia)
+
 ### 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
