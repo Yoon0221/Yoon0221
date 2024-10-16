@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE76F7&center=true&width=435&lines=Hi!!+Welcome+to+Yoons+home!)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=capsule-render&color=auto&height=300&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=30)
 
 ### 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
