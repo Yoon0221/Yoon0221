@@ -25,12 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0221&show_icons=true&theme=radical)
 
-![Yoon's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yoon0221&bg_color=1a1b27&color=f5f5f5&line=BE76F7&point=F8D847&area=true&hide_border=true)
-
 ### 💼 Notable Projects:
-- [Project 1](https://github.com/Yoon0221/project1): Description of your project.
-- [Project 2](https://github.com/Yoon0221/project2): Description of your project.
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Yoon0221.visitor-badge)
 
 
