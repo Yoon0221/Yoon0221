@@ -5,18 +5,20 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
 
 
-<table>
+<table width="100%">
+  <!-- 백준(Solved.ac Profile) -->
   <tr>
-    <td>
-      <!-- Solved.ac Profile -->
+    <td align="center">
+      <h3>백준 (Solved.ac Profile)</h3>
       <a href="https://solved.ac/dkssudsksdbsldia">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudsksdbsldia" alt="Solved.ac Profile">
       </a>
     </td>
   </tr>
+
+  <!-- Languages and Tools -->
   <tr>
-    <td>
-      <!-- Languages and Tools -->
+    <td align="center">
       <h3>🛠️ Languages and Tools:</h3>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -25,11 +27,12 @@
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
     </td>
   </tr>
+
+  <!-- My Tech Stack -->
   <tr>
-    <td>
-      <!-- My Tech Stack -->
+    <td align="center">
       <h3>🚀 My Tech Stack:</h3>
-      <ul>
+      <ul style="list-style:none; padding:0;">
         <li>💻 <strong>Frontend</strong>: Android (Kotlin)</li>
         <li>🛠️ <strong>Backend</strong>: Spring Boot (Java)</li>
       </ul>
