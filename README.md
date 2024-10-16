@@ -14,7 +14,6 @@
 ### 🚀 My Tech Stack:
 - 💻 **Frontend**: Android (Kotlin)
 - 🛠️ **Backend**: Spring Boot (Java)
-- ☁️ **Cloud & DevOps**: AWS, Docker, CI/CD
 
 ### 📚 Experience:
 - **Game Development Club** (2021.09.01 ~ 2022.02.28): Participated in game development projects with other students.
