@@ -5,10 +5,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
 
 
-<table width="100%">
+<table style="width: 100%; table-layout: fixed;">
   <!-- 백준(Solved.ac Profile) -->
   <tr>
-    <td align="center">
+    <td align="center" style="width: 50%;">
       <h3>백준 (Solved.ac Profile)</h3>
       <a href="https://solved.ac/dkssudsksdbsldia">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudsksdbsldia" alt="Solved.ac Profile">
@@ -40,8 +40,6 @@
   </tr>
 </table>
 
-
-
 ### 📚 Experience:
 - **Game Development Club** (2021.09.01 ~ 2022.02.28): Participated in game development projects with other students.
 - **Undergraduate Researcher at Algorithm Lab & Auto-Focusing Intern** (2023.12.20 ~ 2024.02.15): Worked as an undergraduate researcher in an algorithm lab and interned at a company specializing in auto-focusing technology.
@@ -53,5 +51,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0221&show_icons=true&theme=radical)
 
 ### 💼 Notable Projects:
-
-
