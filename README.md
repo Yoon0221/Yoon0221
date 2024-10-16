@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
+<p align="center">
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon0221&layout=compact)
+</p>
+
 ### 🚀 My Tech Stack:
 <p align="center">
   <ul style="list-style:none; padding:0;">
