@@ -4,6 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
 
+
 <table>
   <tr>
     <td>
@@ -12,6 +13,8 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudsksdbsldia" alt="Solved.ac Profile">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- Languages and Tools -->
       <h3>🛠️ Languages and Tools:</h3>
@@ -21,6 +24,8 @@
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- My Tech Stack -->
       <h3>🚀 My Tech Stack:</h3>
@@ -31,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ### 📚 Experience:
