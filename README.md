@@ -4,14 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
 
-<!-- 백준(Solved.ac Profile) -->
-### 백준 (Solved.ac Profile)
-<p align="center">
-  <a href="https://solved.ac/dkssudsksdbsldia">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudsksdbsldia" alt="Solved.ac Profile">
-  </a>
-</p>
-
 <!-- Languages and Tools -->
 ### 🛠️ Languages and Tools:
 <p align="center">
