@@ -31,6 +31,7 @@
 - **Oncast - Android Development** (2024.07.01 ~ 2024.08.31): Developed Android applications for Oncast.
 - **UMC 7th Generation - Android Team Lead** (2024.09.15 ~ present): Serving as the Android team lead for UMC's 7th generation.
 - **UMC 7th Generation - Server Development (Spring Boot)** (2024.09.15 ~ present): Developing server-side applications using Spring Boot.
+- **UMC 8th Generation - Springboot Team Lead** (2024.09.15 ~ present): Serving as the Springboot team lead for UMC's 8th generation.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0221&show_icons=true&theme=radical)
 
