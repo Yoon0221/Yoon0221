@@ -1,40 +1,136 @@
-## 👋 Welcome to Yoon's Coding Space!
+# 👩‍💻 신지윤 (SHIN JI YOON)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE76F7&center=true&width=435&lines=Hi!!+Welcome+to+Yoons+home!)](https://git.io/typing-svg)
+> **Backend / Platform Developer**
+> ICT융합공학부 전공 · 식품영양학과 부전공
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Welcome%0AI'm%0AYoon%0Ahaha&fontSize=70&animation=scaleIn)
+---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoon0221&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🧑‍🎓 기본 정보
 
-<!-- Languages and Tools -->
-### 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-</p>
+* **이름**: 신지윤 (申 智 允)
+* **재학 기간**: 2021.03.01 ~ 2026.02.20 (졸업 예정)
+* **전공**: ICT융합공학부
+* **부전공**: 식품영양학과
 
-### 🚀 My Tech Stack:
-<p align="center">
-  <ul style="list-style:none; padding:0;">
-    <li>💻 <strong>Frontend</strong>: Android (Kotlin)</li>
-    <li>🛠️ <strong>Backend</strong>: Spring Boot (Java)</li>
-  </ul>
-</p>
+---
 
-### 📚 Experience:
-- **Game Development Club** (2021.09.01 ~ 2022.02.28): Participated in game development projects with other students.
-- **Undergraduate Researcher at Algorithm Lab & Auto-Focusing Intern** (2023.12.20 ~ 2024.02.15): Worked as an undergraduate researcher in an algorithm lab and interned at a company specializing in auto-focusing technology.
-- **UMC 6th Generation - Android Development** (2024.03.01 ~ 2024.06.30): Engaged in Android development projects as part of UMC 6th generation.
-- **Oncast - Android Development** (2024.07.01 ~ 2024.08.31): Developed Android applications for Oncast.
-- **UMC 7th Generation - Android Team Lead** (2024.09.15 ~ present): Serving as the Android team lead for UMC's 7th generation.
-- **UMC 7th Generation - Server Development (Spring Boot)** (2024.09.15 ~ present): Developing server-side applications using Spring Boot.
-- **UMC 8th Generation - Springboot Team Lead** (2024.09.15 ~ present): Serving as the Springboot team lead for UMC's 8th generation.
-- **JANGMADANG** (2024.09 ~ present): Trade Website.
-- **JANGSHINNAM** (2025.02.28 ~ present): Sookmyung Final project.
+## 🛠️ 기술 스택
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon0221&show_icons=true&theme=radical)
+* **Backend**: Java, Spring Boot, JPA, Spring Security
+* **Architecture**: MSA, Facade Pattern, Domain-driven Design
+* **AI / Data**: LLM Prompting, SVM, Peak-Valley Detection Algorithm
+* **Infra / ETC**: GitHub, Notion, Async Processing, Session-based Flow
 
-### 💼 Notable Projects:
+---
+
+## 📂 주요 프로젝트
+
+### 1️⃣ OWNCAST
+
+> **GPT 기반 음성 인터랙션 음악 서비스**
+
+* GPT 스크립트 기반 음악 재생
+* TTS / STT 적용
+* 사용자 친화적 스크립트 소통 구조
+* UI/UX 설계 및 설문조사 진행
+
+🔗 **Links**
+
+* GitHub: [https://github.com/orgs/umc-owncast/repositories](https://github.com/orgs/umc-owncast/repositories)
+* Notion: [https://www.notion.so/1-UMC-6th-Android-de1a228bba5c4807a682029cbabb8140](https://www.notion.so/1-UMC-6th-Android-de1a228bba5c4807a682029cbabb8140)
+
+---
+
+### 2️⃣ 장마당
+
+> **래플 기반 중고거래 플랫폼**
+
+* 사용자 간 중고거래를 래플 방식으로 중계
+* 결제 및 보안 파트 담당
+* 데이터 정합성 및 보안 이슈 해결 경험
+
+🔗 **Links**
+
+* Web: [https://www.jangmadang.site/](https://www.jangmadang.site/)
+* GitHub: [https://github.com/orgs/JMarketYard/repositories](https://github.com/orgs/JMarketYard/repositories)
+* Notion: [https://www.notion.so/3-UMC-7th-Spring-Boot-2f827cbecffb4824af668758794fa365](https://www.notion.so/3-UMC-7th-Spring-Boot-2f827cbecffb4824af668758794fa365)
+
+⚠️ *테스트 성공 후, 환금성 문제로 현재는 코인 시장 모델로 전환 도전 중*
+
+---
+
+### 3️⃣ 책모 (Checkmo)
+
+> **실제 독서 동아리를 위한 커뮤니티 플랫폼**
+
+* 독서 동아리 "북적북적" 전용 플랫폼
+* Notion의 불편함을 개선
+* Facade 기반 MSA 아키텍처 설계
+* 추후 분산 서버를 고려한 도메인 의존성 설계
+
+🏆 **UMC 8기 데모데이 우수상**
+
+🔗 **Links**
+
+* Web: [https://checkmo.co.kr](https://checkmo.co.kr)
+* GitHub: [https://github.com/checkmo2025](https://github.com/checkmo2025)
+* Notion: [https://www.notion.so/UMC-8th-Springboot-257ea21604d780bebb2df06ef722aac5](https://www.notion.so/UMC-8th-Springboot-257ea21604d780bebb2df06ef722aac5)
+
+---
+
+### 4️⃣ 졸업 프로젝트 (현대오토에버 배리어프리)
+
+> **배리어프리 AI 콘텐츠 생성 플랫폼**
+
+* LLM 프롬프팅 기반 콘텐츠 생성
+* Async 기반 비동기 작업 처리
+* 세션 기반 이어하기 기능 구현
+* 외부 이미지·영상 모델 연동
+* LoRA 모델 튜닝 시도
+
+🏅 **성과**
+
+* 현대오토에버 배리어프리 공모전 최종 8팀 선정
+* SW 우수작품 경진대회 숙명여대 대표 출품
+
+🔗 **Links**
+
+* GitHub: [https://github.com/Sookmyung-final-ShinNam/final_server](https://github.com/Sookmyung-final-ShinNam/final_server)
+* Notion: [https://www.notion.so/1acea21604d780659950fc96e6cabf19](https://www.notion.so/1acea21604d780659950fc96e6cabf19)
+
+---
+
+## 💼 경력
+
+### 앤비젼 (학부 연구생)
+
+* 1D 데이터 → 2D 데이터 변환 연구
+* 논문 기반 Peak-Valley Detection 알고리즘 구현
+* 7-way 방식으로 시계열 경향 분석
+* SVM 적용
+
+**기타**
+
+* 알고리즘 연구실 학부 연구생
+* 교수님 전담 조교
+* 실제 의료 데이터 취득 및 보안 교육 이수
+* 코엑스 전시 준비 참여
+
+---
+
+## 🏆 자격증 / 수상
+
+* 상세 내용은 Notion 참고
+
+---
+
+## 🌱 기타 활동
+
+### 신대홍 (신한은행 대외활동)
+
+* 신한은행 신규 상품 홍보 콘텐츠 제작
+* 친근한 금융 콘텐츠 기획
+
+🏅 **5월 활동 우수팀 선정**
+
+🔗 Instagram: [https://www.instagram.com/shin.eps_40th](https://www.instagram.com/shin.eps_40th)
